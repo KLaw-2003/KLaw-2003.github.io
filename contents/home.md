@@ -1,6 +1,6 @@
 
 
-[![KLaw-2003](https://img.shields.io/badge/KLaw-2003-github-blue?logo=github)](https://github.com/KLaw-2003)
+[![KLaw-2003](https://img.shields.io/badge/KLaw2003-github-blue?logo=github)](https://github.com/KLaw-2003)
 
 I'm now a senior undergraduate in Shanghai Jiao Tong University. Currently I'm an upcoming Ph.D. student in Computer Engineering at the University of Virginia, advised by [Prof. Kun Qian](https://kunqian.info/).
 
