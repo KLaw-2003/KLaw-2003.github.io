@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![KLaw-2003](https://img.shields.io/badge/KLaw-2003-github-blue?logo=github)](https://github.com/KLaw-2003)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I'm now a senior undergraduate in Shanghai Jiao Tong University. Currently I'm an upcoming Ph.D. student in Computer Engineering at the University of Virginia, advised by [Prof. Kun Qian](https://kunqian.info/).
 
 #### Email
-sli[at]cumt.edu.cn
+[luojy_0515@sjtu.edu.cn](mailto:luojy_0515@sjtu.edu.cn)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- B.E., Measurement & Control Technology and Instruments, Shanghai Jiao Tong University, 2021 - 2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+- Low-Power System
+- Wireless Sensing
+- Mobile Computing
