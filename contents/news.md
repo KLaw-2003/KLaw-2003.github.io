@@ -1,0 +1,2 @@
+- [2025/02] I received an official offer from Computer Engineering at UVa.
+- [2024/12] My first parcitipated reasearch work **NanoScatter** was accepted by *ACM MobiCom, 2025*.
