@@ -12,4 +12,4 @@ I'm now a senior undergraduate in Shanghai Jiao Tong University. Currently I'm a
 Low-Power IoT Designs, Wireless Sensing, Mobile Computing
 
 #### Academic Experiences
-- In 2024, I joined IIoT and began to work with [Fengyuan Zhua](https://swattzz.github.io/) under the supervision of Xiaohua Tian, where I helped complete the **NanoScatter** project. I also did some work about wireless temperature sensing.
+- In 2024, I joined IIoT and began to work with [Fengyuan Zhu](https://swattzz.github.io/) under the supervision of Xiaohua Tian, where I helped complete the **NanoScatter** project. I also did some work about wireless temperature sensing.
