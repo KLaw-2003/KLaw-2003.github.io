@@ -1,1 +1,0 @@
-- **NanoScatter: Towards Ambient IoT**: F. Zhu, J. Shen, W. Li, **J. Luo**, L. Zhong, B. Wang, R. Zhao, and X. Tian.<br> *ACM MobiCom, 2025*. [Cite](https://klaw-2003.github.io/)
