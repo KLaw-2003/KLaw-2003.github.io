@@ -1,2 +1,3 @@
+- Outstanding Graduate of SJTU, 2025.
 - B-Class Scholarship of SJTU, 2022 - 2023.
 - C-Class Scholarship of SJTU, 2021 - 2022.

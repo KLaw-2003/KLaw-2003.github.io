@@ -1,9 +1,8 @@
 
-I'm now a senior undergraduate in Shanghai Jiao Tong University. Currently I'm an upcoming Ph.D. student in Computer Engineering at the University of Virginia, advised by [Prof. Kun Qian](https://kunqian.info/).
+I'm now a first-year Ph.D. student in Computer Engineering at the University of Virginia, advised by [Prof. Kun Qian](https://kunqian.info/).
 
 #### Email
-[luojy_0515@sjtu.edu.cn](mailto:luojy_0515@sjtu.edu.cn)<br>
-[jianyuluo2003@gmail.com](mailto:jianyuluo2003@gmail.com)
+[tbp5cu@virginia.edu](mailto:tbp5cu@virginia.edu)
 
 #### Education
 - B.E., Measurement & Control Technology and Instruments, Shanghai Jiao Tong University, 2021 - 2025.
