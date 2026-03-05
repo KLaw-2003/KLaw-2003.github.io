@@ -11,4 +11,4 @@ I'm now a first-year Ph.D. student in Computer Engineering at the University of 
 Backscatter, Wireless Sensing, Mobile Computing
 
 #### Academic Experiences
-- In 2024, I joined IIoT and began to work with [Fengyuan Zhu](https://swattzz.github.io/) under the supervision of Xiaohua Tian, where I helped complete the **NanoScatter** project. I also did some work about wireless temperature sensing.
+- In 2024, I began to work with [Fengyuan Zhu](https://swattzz.github.io/) under the supervision of Xiaohua Tian, where I helped complete the **NanoScatter** project. I also did some work about wireless temperature sensing.
