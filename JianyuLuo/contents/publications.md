@@ -1,2 +1,2 @@
-- **NanoScatter: Towards Ambient IoT**: F. Zhu, J. Shen, W. Li, **Jianyu Luo**, L. Zhong, B. Wang, R. Zhao, and X. Tian.<br> *ACM MobiCom, 2025*. [Cite](https://klaw-2003.github.io/JianyuLuo/)
-- **Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power**: B. Wang, Z. Yang, W. Li,  L. Zhong, F. Zhu, J. Lei, **Jianyu Luo**, M. Jin, and X. Tian.<br> *ACM MobiCom, 2025*. [Cite](https://klaw-2003.github.io/JianyuLuo/)
+- **NanoScatter: Towards Ambient IoT**: F. Zhu, J. Shen, W. Li, **Jianyu Luo**, L. Zhong, B. Wang, R. Zhao, and X. Tian.<br> *ACM MobiCom, 2025*. [PDF](https://dl.acm.org/doi/abs/10.1145/3680207.3723476)
+- **Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power**: B. Wang, Z. Yang, W. Li,  L. Zhong, F. Zhu, J. Lei, **Jianyu Luo**, M. Jin, and X. Tian.<br> *ACM MobiCom, 2025*. [PDF](https://dl.acm.org/doi/10.1145/3680207.3723475)
