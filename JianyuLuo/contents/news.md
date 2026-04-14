@@ -1,2 +1,3 @@
 - [2025/02] I received an official offer from Computer Engineering department at UVa.
 - [2024/12] My first parcitipated reasearch project **NanoScatter** was accepted by *ACM MobiCom 2025*.
+- [2024/12] I met a wonderful girl, Xingyu Lu 💖.
